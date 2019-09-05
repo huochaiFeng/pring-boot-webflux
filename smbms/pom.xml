@@ -43,7 +43,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 		</dependency>
-
 		<!-- jstl 依赖 -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
